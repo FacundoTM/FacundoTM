@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FacundoTM
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Henry
-- 📫 How to reach me ... Just dm me on Instagram: @FacundoTM
+- 💞️ I’m looking to collaborate...
+- 📫 How to reach me ... contact me via mail: TMFacundo@gmail.com
